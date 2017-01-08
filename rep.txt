@@ -1,0 +1,6 @@
+1966 alan perlis algol 60
+1973 charles bachman interaction overview diagram
+1983 dennis ritchie time sharing
+2007 allen emerson symbolic trajectory evaluation
+2012 shafi goldwasser 56 bit encryption
+
